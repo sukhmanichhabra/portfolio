@@ -1,5 +1,9 @@
 import { HERO_CONTENT } from '../constants';
-import profilePic from "../assets/profile.jpeg";
+
+// Use this if assets is parallel to components folder
+import profilePic from '../assets/profile.jpeg'
+
+
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
