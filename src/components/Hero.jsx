@@ -1,7 +1,7 @@
 import { HERO_CONTENT } from '../constants';
 
 // Use this if assets is parallel to components folder
-import profilePic from '../assets/profile.jpeg'
+import profilePic from '../assets/Profile.jpeg'
 
 
 import { motion } from "framer-motion";
