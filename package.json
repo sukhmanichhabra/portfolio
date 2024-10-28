@@ -9,7 +9,9 @@
     "predeploy":"npm run build",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "framer-motion": "^11.11.10",
